@@ -1,2 +1,41 @@
 # resumo-do-lab
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+
+Introdução à Computação em Nuvem 
+Durante o desenvolvimento deste lab, aprendi os conceitos fundamentais sobre computação em nuvem, seus modelos de implantação e os diferentes tipos de despesas envolvidas. A seguir, destaco os principais aprendizados:
+
+O que é Computação em Nuvem?
+A computação em nuvem é a entrega de serviços de TI por meio da internet, possibilitando inovação rápida, escalabilidade de recursos e redução de custos. Ela permite que organizações acessem infraestrutura, plataformas e softwares sob demanda, sem precisar investir em hardware próprio.
+
+Modelos de Nuvem
+Nuvem Privada
+Utilizada exclusivamente por uma organização em seu próprio datacenter.
+Total controle sobre segurança, recursos e manutenção.
+Ideal para empresas que precisam de alto nível de proteção de dados e conformidade legal.
+
+Nuvem Pública
+Fornecida por empresas especializadas (como AWS, Azure, Google Cloud).
+Compartilhada entre várias organizações.
+Escalável, flexível e com pagamento sob demanda.
+Elimina os custos iniciais com infraestrutura.
+
+Nuvem Híbrida
+Combina nuvem pública e privada.
+Permite escolher o ambiente ideal para cada aplicação.
+Oferece maior flexibilidade, controle e conformidade com requisitos legais.
+
+Modelos de Custos
+CapEx (Despesas de Capital)
+Investimento inicial em hardware e infraestrutura.
+Valor depreciado ao longo do tempo.
+
+OpEx (Despesas Operacionais)
+Pagamento conforme o uso dos recursos e serviços.
+Ideal para manter a agilidade financeira e escalar com eficiência.
+
+Modelo Baseado em Consumo
+Os serviços em nuvem seguem o modelo "pay-as-you-go".
+Os usuários pagam apenas pelo que utilizam.
+Permite previsibilidade de custos e otimização de investimentos.
+
+Este aprendizado me ajudou a entender como a nuvem pode transformar a maneira como empresas operam, tornando os serviços mais acessíveis, seguros e escaláveis.

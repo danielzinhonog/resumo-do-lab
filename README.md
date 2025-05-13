@@ -80,7 +80,7 @@ Gerenciamento via:
 - CLI
 - APIs
 - PowerShell  
-Implantação rápida e escalável com modelos prontos.
+- Implantação rápida e escalável com modelos prontos.
 
 ---
 

@@ -29,6 +29,25 @@ Entrega de serviços de TI via internet, com escalabilidade, inovação rápida 
 
 ---
 
+## 🧩 Modelos de Serviço em Nuvem
+
+### 🖥️ IaaS (Infraestrutura como Serviço)
+- Aluguel de servidores, VMs, redes e armazenamento sob demanda
+- Maior flexibilidade e controle sobre o ambiente
+- Você gerencia o sistema operacional e o software instalado
+
+### 🛠️ PaaS (Plataforma como Serviço)
+- Ambiente gerenciado para desenvolvimento e implantação de aplicativos
+- Foco total no código, sem se preocupar com a infraestrutura
+- Infraestrutura e plataforma gerenciadas pelo provedor
+
+### 💻 SaaS (Software como Serviço)
+- Acesso direto a aplicativos via internet (ex: Office 365, e-mail)
+- Modelo por assinatura: pague conforme o uso
+- Sem necessidade de instalação ou manutenção
+
+---
+
 ## 💸 Modelos de Custo
 
 ### 💰 CapEx (Despesas de Capital)
@@ -69,7 +88,9 @@ Infraestrutura global descentralizada garante alta resiliência.
 Custo e desempenho previsíveis com base em boas práticas do Azure.
 
 ### 🔐 Segurança
-Modelos como IaaS, PaaS e SaaS definem o nível de controle do cliente.
+Ferramentas robustas para proteger dados e sistemas:
+- **IaaS**: mais controle, maior responsabilidade
+- **PaaS/SaaS**: menos controle, manutenção automatizada
 
 ### 🧭 Governança
 Monitoramento de conformidade, automação de atualizações e organização.
